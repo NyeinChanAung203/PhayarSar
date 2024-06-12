@@ -8,7 +8,8 @@ part 'dio_provider.g.dart';
 Dio dioProvider(DioProviderRef ref) {
   Dio dio = Dio(
     BaseOptions(
-        baseUrl: 'https://blazor-wasm-phayarsar.vercel.app/data',
+        baseUrl:
+            'https://raw.githubusercontent.com/NyeinChanAung203/PhayarSar/master/data',
         connectTimeout: const Duration(seconds: 10),
         receiveTimeout: const Duration(seconds: 10),
         headers: {

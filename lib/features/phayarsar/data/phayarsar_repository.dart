@@ -32,6 +32,6 @@ class PhayarsarRepository {
     required String id,
   }) async {
     final resp = await dio.get('/$groupId/$id.json');
-    return PhayarsarDetail.fromMap(resp.data);
+    return PhayarsarDetail.fromMap(jsonDecode(resp.data));
   }
 }
