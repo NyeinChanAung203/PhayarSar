@@ -4,9 +4,9 @@ PhayarSar application
 
 ## Acknowledgments
 
-This project uses data from [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Their repository, [PhayarSar](https://github.com/sannlynnhtun-coding/PhayarSar), provided invaluable resources for this work.
+This project uses data from [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). His repository, [PhayarSar](https://github.com/sannlynnhtun-coding/PhayarSar), provided invaluable resources for this work.
 
-We appreciate their efforts and contributions to the open-source community.
+We appreciate his efforts and contributions to the open-source community.
 
 ## ScreenShots
 ### Light Mode
