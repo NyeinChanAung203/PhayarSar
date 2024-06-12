@@ -1,16 +1,25 @@
-# phayarsar
+# PhayarSar
 
-A new Flutter project.
+PhayarSar application
 
-## Getting Started
+## Acknowledgments
 
-This project is a starting point for a Flutter application.
+This project uses data from [Sann Lynn Htun](https://github.com/sannlynnhtun-coding). Their repository, [PhayarSar](https://github.com/sannlynnhtun-coding/PhayarSar), provided invaluable resources for this work.
 
-A few resources to get you started if this is your first Flutter project:
+We appreciate their efforts and contributions to the open-source community.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShots
+### Light Mode
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/630c09ab-d592-49d4-8112-b7c0a3c29447" width="210" height="480">
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/1f2909b3-bdec-4616-8d8f-af2c4ba9dc67" width="210" height="480">
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/7a31e770-9d17-4dd3-afac-b78c5a3a5696" width="210" height="480">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Dark Mode
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/8c7a5fc7-57ac-42ac-a106-7151031ca372" width="210" height="480">
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/624d1f10-e613-4815-8db6-a5fd49e2c1b4" width="210" height="480">
+<img src="https://github.com/NyeinChanAung203/PhayarSar/assets/63293974/7d752b3d-4752-4aec-9ac4-34220253f133" width="210" height="480">
+
+
+## Download
+### [PhayarSar.apk](https://github.com/NyeinChanAung203/PhayarSar/blob/master/apk_file/phayarsar.apk)
